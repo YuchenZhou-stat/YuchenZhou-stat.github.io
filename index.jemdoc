@@ -8,6 +8,7 @@ I am a postdoctoral researcher in the [https://statistics.wharton.upenn.edu Depa
 I am interested in high-dimensional statistical inference, tensor data analysis, reinforcement learning and statistical learning theory. \n
 \n
 My Erdős number is 3. \n
+*I am on the 2023-2024 job market.*
 \n
 E-mail: /yczhou/ \[AT\] wharton \[DOT\] upenn \[DOT\] edu
 \n
@@ -19,8 +20,10 @@ E-mail: /yczhou/ \[AT\] wharton \[DOT\] upenn \[DOT\] edu
 
 == Papers
 ($*$: alphabetical ordering authorship, $\dagger$: equal contributions)
+- [tensor_clustering.pdf Tensor Clustering with Heteroskedastic Noise.] \n
+*Yuchen Zhou*, Yuxin Chen \n
 - [https://arxiv.org/abs/2303.06198 Deflated HeteroPCA: Overcoming the curse of ill-conditioning in heteroskedastic PCA] \n
-Yuchen Zhou, Yuxin Chen \n
+*Yuchen Zhou*, Yuxin Chen \n
 /Submitted/ \n
 
 
@@ -29,7 +32,7 @@ $*$Dong Xia, Anru Zhang, *Yuchen Zhou* \n
 /Annals of Statistics, 2022/ \n
 
 - [https://arxiv.org/abs/2010.02482 Optimal High-order Tensor SVD via Tensor-Train Orthogonal Iteration] \n
-Yuchen Zhou, Anru Zhang, Lili Zheng, Yazhen Wang \n
+*Yuchen Zhou*, Anru Zhang, Lili Zheng, Yazhen Wang \n
 /IEEE Transactions on Information Theory, 2022/ \n
 /(This paper received IMS Hannan Graduate Student Travel Award, 2021.)/ \n
 
