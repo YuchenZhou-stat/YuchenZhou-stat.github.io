@@ -2,14 +2,15 @@
 = Yuchen Zhou
 
 ~~~
-{}{img_left}{Photo/yuchenzhou.png}{alt text}{}{240}
-I am a postdoctoral researcher in the [https://statistics.wharton.upenn.edu Department of Statistics and Data Science] at the Wharton School at University of Pennsylvania, supervised by Professor [https://yuxinchen2020.github.io Yuxin Chen]. Previously, I received my Ph.D. in the Department of Statistics at the University of Wisconsin-Madison, co-advised by Professor [http://pages.stat.wisc.edu/~anruzhang/ Anru Zhang] and Professor [http://pages.stat.wisc.edu/~yzwang/ Yazhen Wang]. Before my Ph.D., I received my bachelor's degree from [http://www.math.pku.edu.cn School of Mathematical Sciences] at Peking University in 2016, advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. \n
+{}{img_left}{Photo/yuchenzhou.jpeg}{alt text}{}{300}
+I am a postdoctoral researcher in the [https://statistics.wharton.upenn.edu Department of Statistics and Data Science] at the Wharton School at the University of Pennsylvania, supervised by Professor [https://yuxinchen2020.github.io Yuxin Chen]. Previously, I received my Ph.D. in the Department of Statistics at the University of Wisconsin-Madison, co-advised by Professor [http://pages.stat.wisc.edu/~anruzhang/ Anru Zhang] and Professor [http://pages.stat.wisc.edu/~yzwang/ Yazhen Wang]. Before my Ph.D., I received my bachelor's degree from [http://www.math.pku.edu.cn School of Mathematical Sciences] at Peking University in 2016, advised by Professor [http://www.liweiwang-pku.com Liwei Wang]. \n
 \n
-I am interested in high-dimensional statistical inference, tensor data analysis, reinforcement learning and statistical learning theory. \n
+I will join the [https://stat.illinois.edu Department of Statistics] at the University of Illinois Urbana-Champaign as an assistant professor in Fall 2024.\n
+\n
+I am interested in high-dimensional statistical inference, tensor data analysis, statistical learning theory, and nonconvex optimization. \n
 \n
 My Erdős number is 3. \n
-*I am on the 2023-2024 job market.*
-\n
+
 E-mail: /yczhou/ \[AT\] wharton \[DOT\] upenn \[DOT\] edu
 \n
 [https://scholar.google.com/citations?user=Wt9Cg7YAAAAJ&hl=en Google Scholar]
@@ -21,7 +22,7 @@ E-mail: /yczhou/ \[AT\] wharton \[DOT\] upenn \[DOT\] edu
 == Papers
 - [https://arxiv.org/abs/2311.02306 Heteroskedastic Tensor Clustering] \n
 *Yuchen Zhou*, Yuxin Chen \n
-/Submitted to Journal of the Royal Statistical Society, Series B (JRSSB)/ \n
+/Submitted/ \n
 
 - [https://arxiv.org/abs/2303.06198 Deflated HeteroPCA: Overcoming the curse of ill-conditioning in heteroskedastic PCA] \n
 *Yuchen Zhou*, Yuxin Chen \n
